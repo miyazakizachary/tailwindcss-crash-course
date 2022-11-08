@@ -1,0 +1,15 @@
+{
+  "name": "tailwindcss-crash-course",
+  "version": "1.0.0",
+  "description": "TailwindCss Crash Course by TraversyMedia",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwid build src/style.css -o dist/sty;e.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mozak",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.2.2"
+  }
+}
